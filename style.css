@@ -140,6 +140,7 @@ body {
     color: #31b0d5;
     text-transform: uppercase;
     text-align: center;
+    font-weight: bolder;
   }
   
   .content-body {
@@ -199,6 +200,7 @@ body {
     display: block;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+ 
   }
   
   .project-content {
